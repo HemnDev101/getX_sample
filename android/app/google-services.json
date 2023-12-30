@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619048134903",
+    "project_id": "getxsample-b9427",
+    "storage_bucket": "getxsample-b9427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619048134903:android:8348465f76b5479d450bf2",
+        "android_client_info": {
+          "package_name": "com.example.getx_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDi-wWmEwsqabvEquotZRqqYdx7AIvReI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
